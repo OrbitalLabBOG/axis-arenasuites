@@ -1,0 +1,31 @@
+{
+  "name": "axis-arenasuites",
+  "version": "1.0.0",
+  "description": "Sitio web de Arena Suites - Apartahotel en Bogotá",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "optimize:images": "node scripts/optimize-images.js"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "sharp": "^0.33.0",
+    "glob": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrbitalLabBOG/axis-arenasuites"
+  },
+  "keywords": [
+    "axis",
+    "consulting",
+    "client-project",
+    "website",
+    "arena-suites",
+    "hotel"
+  ],
+  "author": "Orbital Lab",
+  "license": "UNLICENSED"
+}
